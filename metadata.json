@@ -1,0 +1,8 @@
+{
+  "name": "Val U Tracker",
+  "description": "An intelligent, mobile-first monthly expense tracker that uses AI to parse transaction messages and receipts into a beautiful, organized dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
